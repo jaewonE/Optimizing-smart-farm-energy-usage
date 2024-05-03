@@ -7,4 +7,3 @@
 - 데이터 사용: 22*생산정보.csv와 22*에너지사용정보.csv 사용함.
 
 > 201904008 곽재원.
-# Optimizing-smart-farm-energy-usage
